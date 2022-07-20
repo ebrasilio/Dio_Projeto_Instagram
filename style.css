@@ -33,7 +33,7 @@ body {
 }
 
 .instagram-phone img {
-  height: 50rem;
+  height: 40rem;
 }
 
 /* Segundo container */
@@ -153,6 +153,6 @@ body {
   }
 
   .group {
-    border: 1px solid transparent;
+    border: 1px solid transparent
   }
 }
